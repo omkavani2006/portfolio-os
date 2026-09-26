@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-os/static/css/main.e094ceda.css",
+    "main.js": "/portfolio-os/static/js/main.5df01a91.js",
+    "static/js/453.bf5b3f29.chunk.js": "/portfolio-os/static/js/453.bf5b3f29.chunk.js",
+    "static/media/computer.mp4": "/portfolio-os/static/media/computer.f6d03fdb3cc6238c1dd0.mp4",
+    "static/media/currentme.jpeg": "/portfolio-os/static/media/currentme.c846cc6c15426bc55c9f.jpeg",
+    "static/media/Om_kavani_Resume.pdf": "/portfolio-os/static/media/Om_kavani_Resume.d9ae28bae3e9ad29c123.pdf",
+    "static/media/MSSansSerif.ttf": "/portfolio-os/static/media/MSSansSerif.aa14e7b110864a3c2e08.ttf",
+    "static/media/workingAtComputer.jpeg": "/portfolio-os/static/media/workingAtComputer.dd30c2da8948366053bc.jpeg",
+    "static/media/gsts.png": "/portfolio-os/static/media/gsts.28f895d0d9ff981bffb0.png",
+    "static/media/ee.jpg": "/portfolio-os/static/media/ee.7656e3a317181c8a39b1.jpg",
+    "static/media/Terminal.ttf": "/portfolio-os/static/media/Terminal.6a1b7290048681921b2c.ttf",
+    "static/media/neverGiveUp.jpg": "/portfolio-os/static/media/neverGiveUp.c9ee4e48677de77065a9.jpg",
+    "static/media/art.gif": "/portfolio-os/static/media/art.65fd5e0f99221d2b2790.gif",
+    "static/media/music.gif": "/portfolio-os/static/media/music.c9c30c33387db0ffe5ad.gif",
+    "static/media/Millennium.ttf": "/portfolio-os/static/media/Millennium.e16d74a8e8e0567ce30e.ttf",
+    "static/media/Millennium-Bold.ttf": "/portfolio-os/static/media/Millennium-Bold.cd5e3be832ebd008c852.ttf",
+    "index.html": "/portfolio-os/index.html",
+    "main.e094ceda.css.map": "/portfolio-os/static/css/main.e094ceda.css.map",
+    "main.5df01a91.js.map": "/portfolio-os/static/js/main.5df01a91.js.map",
+    "453.bf5b3f29.chunk.js.map": "/portfolio-os/static/js/453.bf5b3f29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e094ceda.css",
+    "static/js/main.5df01a91.js"
+  ]
+}
